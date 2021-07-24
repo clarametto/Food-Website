@@ -1,3 +1,10 @@
 #banner {
     background-color: #E5E5E5;
 }
+#menu{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between ;
+    padding: 20px 20px 20px 20px;
+}
