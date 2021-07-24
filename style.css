@@ -1,6 +1,7 @@
 #banner {
     background-color: #E5E5E5;
-    padding: 20px 50px 20px 5git0px;
+    padding: 20px 50px 20px 50px;
+    height: auto;
 }
 #menu{
     list-style: none;
@@ -18,3 +19,7 @@ h1{
 body{
     margin: 30px;
 }
+#left{
+    float: left;
+    width: 30%;
+} 
