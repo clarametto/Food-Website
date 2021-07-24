@@ -1,10 +1,20 @@
 #banner {
     background-color: #E5E5E5;
+    padding: 20px 50px 20px 5git0px;
 }
 #menu{
     list-style: none;
     display: flex;
     flex-direction: row;
     justify-content:space-between ;
-    padding: 20px 20px 20px 20px;
+   
+}
+#food{
+    color: #EAAC3B;
+}
+h1{
+    color: #6CB840;
+}
+body{
+    margin: 30px;
 }
