@@ -23,3 +23,10 @@ body{
     float: left;
     width: 30%;
 } 
+#food-left{
+    float: left;
+    width: 60%;
+}
+#food-left>img{
+    width: 100%;
+}
