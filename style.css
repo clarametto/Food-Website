@@ -34,6 +34,7 @@ body{
 }
 #eat-food{
     color: #FFDC8E;
+
 }
 #food-right {
     float: right;
@@ -45,7 +46,7 @@ body{
     height: 400px;
 }
 #food-both {
-height: 500px;
+height: 600px;
 }
 #order{
     background-color: #6CB840;
@@ -53,4 +54,16 @@ height: 500px;
     border-radius: 150px;
     text-decoration: none;
     color: white;
+}
+.center {
+    text-align: center;
+    align-items: center;
+}
+.food-image{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.green {
+    color: #6CB840;
 }
