@@ -146,3 +146,7 @@ input, BUtton{
 .head{
     padding-top: 30px;
 }
+span{
+    font-weight: 900;
+    font-size: 25px;
+}
