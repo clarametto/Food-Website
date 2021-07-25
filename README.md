@@ -25,3 +25,4 @@ Email: clara.metto@student.moringaschool.com
 View [live](https://clarametto.github.io/Food-Website/) 
 This project is under:
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](/LICENSE)
+

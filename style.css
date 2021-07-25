@@ -85,6 +85,7 @@ height: 600px;
     .paragraph{
         height: auto;
         background-color: whitesmoke;
+        border-radius: 15px 50px; 
 
     }
 /* page-4 */
