@@ -114,3 +114,13 @@ height: 600px;
     background-color: rgb(201,236,181);
 }
 
+.page-5{
+    height: 300px;
+    background-color: rgb(255,245,221);
+}
+
+input, BUtton{
+    border-radius: 20px;
+    border: 0px;
+
+
