@@ -82,4 +82,20 @@ height: 600px;
     width: 100%;
     
 }
+    .paragraph{
+        height: auto;
+        background-color: whitesmoke;
 
+    }
+/* page-4 */
+
+.hot{
+    width: 50%;
+    height: 700px;
+    background-image: url("Assets/abhishek-hajare-kkrXVKK-jhg-unsplash-removebg-preview.png");
+    background-size: 100% 100%;
+}
+.hot img{
+    margin-top: 450px;
+    margin-left:300px;
+}
