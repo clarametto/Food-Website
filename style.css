@@ -91,11 +91,25 @@ height: 600px;
 
 .hot{
     width: 50%;
-    height: 700px;
+    height: 500px;
     background-image: url("Assets/abhishek-hajare-kkrXVKK-jhg-unsplash-removebg-preview.png");
     background-size: 100% 100%;
 }
 .hot img{
-    margin-top: 450px;
-    margin-left:300px;
+    margin-top: 260px;
+    margin-left:130px;
 }
+.size{
+    width: 500px;
+    margin-left:350px;
+}
+
+.left{
+    padding-top: 20%;
+    float: right;
+}
+
+.page-4{
+    height: 500px;
+}
+
