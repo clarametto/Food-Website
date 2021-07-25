@@ -41,9 +41,9 @@ body{
     width: 40%;
     margin-top: 70px;
 }
-#explore{
-    background-color: #EAF3E4;
-    height: 400px;
+#explore, .explore{
+    background-color: rgb(234,243,228);
+    height: auto;
 }
 #food-both {
 height: 600px;
@@ -67,3 +67,19 @@ height: 600px;
 .green {
     color: #6CB840;
 }
+.explore {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    
+}
+#explore2 {
+    margin-top: 10vh;
+}
+
+.item-1 {
+    display: flex;
+    width: 100%;
+    
+}
+
