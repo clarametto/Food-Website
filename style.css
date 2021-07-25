@@ -122,5 +122,26 @@ height: 600px;
 input, BUtton{
     border-radius: 20px;
     border: 0px;
+}
 
+.footer{
+    background-color: rgb(241,250,236);
+    display: flex;
+    flex-direction: row ;
+}
 
+.time, .address, .follow{
+    padding-left: 20px;
+    padding: 30PX;
+}
+
+.address, .follow{
+    padding-left: 30px;
+}
+
+.space{
+    padding-top: 7%;
+}
+.head{
+    padding-top: 30px;
+}
